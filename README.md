@@ -1,4 +1,5 @@
-# D_2_10
+# D_2_10  sLACK -  Peganov Oleg PWS-9
+
 
 Регистрируемся на Sentry.io-для этого заходим туда 
 и жмем Get started
